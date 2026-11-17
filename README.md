@@ -1,4 +1,6 @@
-# Wanderlust Meet — Global Travel Meetup Marketplace
+# Findingmate
+
+## Wanderlust Meet — Global Travel Meetup Marketplace
 
 > "Meet people. Explore places. Share experiences."
 
